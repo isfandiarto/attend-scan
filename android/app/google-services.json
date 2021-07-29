@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "449224205519",
+    "firebase_url": "https://reactnativedb-9b64e-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "reactnativedb-9b64e",
+    "storage_bucket": "reactnativedb-9b64e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449224205519:android:afc7eed30ccd1d323803ba",
+        "android_client_info": {
+          "package_name": "com.reactnativeopencv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "449224205519-i8amfat0io1m1da03uttip9klufia3vr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATyRH9M4AG48C7yN8fq6j6xjTqrLy92Bo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "449224205519-i8amfat0io1m1da03uttip9klufia3vr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

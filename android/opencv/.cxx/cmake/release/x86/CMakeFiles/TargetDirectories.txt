@@ -1,0 +1,3 @@
+C:/Users/Muhammad Isfandiarto/Desktop/native project/attempt 2/reactNativeOpenCV/android/opencv/.cxx/cmake/release/x86/CMakeFiles/opencv_jni_shared.dir
+C:/Users/Muhammad Isfandiarto/Desktop/native project/attempt 2/reactNativeOpenCV/android/opencv/.cxx/cmake/release/x86/CMakeFiles/edit_cache.dir
+C:/Users/Muhammad Isfandiarto/Desktop/native project/attempt 2/reactNativeOpenCV/android/opencv/.cxx/cmake/release/x86/CMakeFiles/rebuild_cache.dir

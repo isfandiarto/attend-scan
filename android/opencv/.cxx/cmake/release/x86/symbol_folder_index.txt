@@ -1,0 +1,1 @@
+C:\Users\Muhammad Isfandiarto\Desktop\native project\attempt 2\reactNativeOpenCV\android\opencv\build\intermediates\cmake\release\obj\x86

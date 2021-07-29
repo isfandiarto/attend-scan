@@ -1,0 +1,7 @@
+Executable : C:\Users\Muhammad Isfandiarto\AppData\Local\Android\Sdk\cmake\3.10.2.4988404\bin\ninja.exe
+arguments : 
+-C
+C:\Users\Muhammad Isfandiarto\Desktop\native project\attempt 2\reactNativeOpenCV\android\opencv\.cxx\cmake\debug\armeabi-v7a
+opencv_jni_shared
+jvmArgs : 
+
