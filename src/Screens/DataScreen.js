@@ -83,9 +83,9 @@ const DataScreen = ({navigation}) => {
                 onPress={() =>  clearData()}>
                 <Text style={styles.button}>CLEAR DATA</Text>
               </TouchableOpacity>
-              {listBio.map(bio => {
+              {listBio.map((bio, index) => {
                 return (
-                <TouchableOpacity 
+                <TouchableOpacity key={index}
                   style={styles.card}
                   onPress={() => navigation.navigate('Detail', {NPM : bio.NPM, matkul : matkul, kelas : kelas})}
                 >

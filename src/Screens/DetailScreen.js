@@ -31,9 +31,9 @@ if(isFetched){
     return (
         <View style={styles.container}>
             <Text>{NPM}</Text>
-            {listKehadiran.map(data => {
+            {listKehadiran.map((data, index) => {
                 return (
-                <View style={styles.card}>
+                <View style={styles.card} key={index}>
                     <Text>Pertemuan {data.minggu}</Text>
                     <Text>Status : {data.status ? 'Hadir' : 'Tidak Hadir'}</Text>
                     <Text>Keterangan : {'' ? 'Tidak ada Keterangan' : data.keterangan}</Text>
